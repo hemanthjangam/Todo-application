@@ -70,7 +70,7 @@ Todo-application/
 ***
 
 ## 🖼 Sample Screenshots
-![Screenshot of Todo Application](./Screenshot 2025-08-13 at 11.49.55.png)
+![Screenshot of Todo Application](./Screenshot-2025-08-13-at-11-49-55.png)
 
 
 ***
